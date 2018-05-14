@@ -1,4 +1,4 @@
-applications:
+applications       teste:
 - path: .
   memory: 512M
   instances: 1
